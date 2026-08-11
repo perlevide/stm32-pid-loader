@@ -1,0 +1,24 @@
+{
+  "Backend": "KeilUv4",
+  "Uv4Path": "",
+  "ProjectPath": "",
+  "PyOcdCmd": "",
+  "PyOcdHex": "",
+  "PyOcdTarget": "",
+  "PyOcdProbe": "",
+  "CubeCli": "",
+  "CubeProject": "",
+  "CubeBuild": "",
+  "CubeInterface": "ST-Link SWD",
+  "CubeTarget": "",
+  "CubeResetMode": "UR (under reset)",
+  "CubeSpeed": "4000",
+  "HeaderPath": "",
+  "ComPort": "",
+  "BaudRate": 115200,
+  "Presets": [
+  ],
+  "RecentProjects": [
+  ],
+  "LastPresetName": ""
+}

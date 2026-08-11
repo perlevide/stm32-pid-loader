@@ -1,0 +1,32 @@
+{
+  "Backend": "KeilUv4",
+  "Uv4Path": "C:\\Users\\perlevide\\mystuff\\applications\\keil-v5\\UV4\\UV4.exe",
+  "ProjectPath": "C:\\Users\\perlevide\\mystuff\\test-environment\\stm32-project\\project_1\\MDK-ARM\\project_1.uvprojx",
+  "PyOcdCmd": "pyocd",
+  "PyOcdHex": "",
+  "PyOcdTarget": "stm32f103c8",
+  "PyOcdProbe": "",
+  "CubeCli": "C:\\Program Files\\STMicroelectronics\\STM32Cube\\STM32CubeProgrammer\\bin\\STM32_Programmer_CLI.exe",
+  "CubeProject": "",
+  "CubeBuild": "make -j4",
+  "CubeInterface": "ST-Link SWD",
+  "CubeTarget": "",
+  "CubeResetMode": "UR (under reset)",
+  "CubeSpeed": "4000",
+  "HeaderPath": "C:\\Users\\perlevide\\mystuff\\test-environment\\stm32-project\\project_1\\My Library\\pid_config.h",
+  "ComPort": "COM10",
+  "BaudRate": 115200,
+  "Presets": [
+    {
+      "Name": "2",
+      "Kp": 4,
+      "Ki": 2,
+      "Kd": 123,
+      "Note": "weird ass shit"
+    }
+  ],
+  "RecentProjects": [
+    "C:\\Users\\perlevide\\mystuff\\test-environment\\stm32-project\\project_1\\MDK-ARM\\project_1.uvprojx"
+  ],
+  "LastPresetName": ""
+}
